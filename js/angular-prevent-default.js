@@ -1,5 +1,5 @@
-// Prevents the default action of an anchor when clicked.  
-// Copyright (C) 2013 Qloo Inc., Michael Diolosa <michael.diolosa@gmail.com>  
+// Prevents the default action of an anchor when clicked.
+// Copyright (C) 2013 Qloo Inc., Michael Diolosa <michael.diolosa@gmail.com>
 // License: MIT
 
 /*global angular:true, browser: true */
@@ -29,7 +29,6 @@
           // `preventDefault` and `stopPropagation` for the default link action
           // to be cancelled.
           event.preventDefault();
-          event.stopPropagation();
         });
       }
     };
