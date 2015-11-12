@@ -1,5 +1,6 @@
 // Prevents the default action of an anchor when clicked.
-// Copyright (C) 2013 Qloo Inc., Michael Diolosa <michael.diolosa@gmail.com>
+// Copyright (c) 2015 Andrew Barton <ajbarton@users.sf.net>
+// Copyright (c) 2013 Qloo Inc., Michael Diolosa <michael.diolosa@gmail.com>
 // License: MIT
 
 /*global angular:true, browser: true */

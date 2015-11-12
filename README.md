@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/qloo/angular-prevent-default.png)](https://travis-ci.org/qloo/angular-prevent-default)
-
-# AngularJS Prevent Default Module
+# angular-prevent-default
 
 Prevents the default action of an anchor when clicked.  
 http://qloo.github.io/angular-prevent-default/  
